@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ru">
+
 <head>
 	<title>Georgia</title>
 	<meta charset="UTF-8">
@@ -53,83 +54,83 @@
 <body>
 	<div class="wrapper">
 		<header class="header">
-	<div class="header__content _container">
-		<div class="header__block">
-			<a href="" class="header__logo"><img src="img/icons/logo.webp" alt=""></a>
-			<a href="" class="header__heading">GEORGIA</a>
+			<div class="header__content _container">
+				<div class="header__block">
+					<a href="" class="header__logo"><img src="img/icons/logo.webp" alt=""></a>
+					<a href="" class="header__heading">GEORGIA</a>
 
-			<nav data-da="menu__body,0,767" class="menu__body-1">
-				<ul class="menu__list-1">
-					<li><a href="" class="menu__link-1">Tours</a></li>
-					<li><a href="" class="menu__link-1">About company</a></li>
-					<li><a href="" class="menu__link-1">Contacts</a></li>
+					<nav data-da="menu__body,0,767" class="menu__body-1">
+						<ul class="menu__list-1">
+							<li><a href="" class="menu__link-1">Tours</a></li>
+							<li><a href="" class="menu__link-1">About company</a></li>
+							<li><a href="" class="menu__link-1">Contacts</a></li>
 
-				</ul>
+						</ul>
 
-			</nav>
-			<div data-da="menu__body,2,767" class="top-header__column">
-				<div class="top-header__contacts contacts-top">
-					<div class="contacts-top__column">
-						<div class="contacts-top__item contacts-top__item_icon">
-							<div class="top-header__socials socials-top socials-top_a">
-								<div class="social-header__block"> <a rel="nofollow" target="_blank"
-										href="whatsapp://send?phone=380953970947"
-										class="social-header__icon social-header__icon_c WhatsApp _icon-whatsapp"></a>
-									<a rel="nofollow" target="_blank" href="viber://add?number=380953970947"
-										class="social-header__icon social-header__icon_b viber _icon-viber"></a>
-									<a href="https://t.me/gri_shchuk" rel="nofollow" target="_blank"
-										class="social-header__icon social-header__icon_a telegram _icon-telegram"></a>
+					</nav>
+					<div data-da="menu__body,2,767" class="top-header__column">
+						<div class="top-header__contacts contacts-top">
+							<div class="contacts-top__column">
+								<div class="contacts-top__item contacts-top__item_icon">
+									<div class="top-header__socials socials-top socials-top_a">
+										<div class="social-header__block"> <a rel="nofollow" target="_blank"
+												href="whatsapp://send?phone=380953970947"
+												class="social-header__icon social-header__icon_c WhatsApp _icon-whatsapp"></a>
+											<a rel="nofollow" target="_blank" href="viber://add?number=380953970947"
+												class="social-header__icon social-header__icon_b viber _icon-viber"></a>
+											<a href="https://t.me/gri_shchuk" rel="nofollow" target="_blank"
+												class="social-header__icon social-header__icon_a telegram _icon-telegram"></a>
+										</div>
+									</div>
+									<a href="tel:380953970947" class="contacts-top__tel">+38 095 397 09 47</a>
 								</div>
 							</div>
-							<a href="tel:380953970947" class="contacts-top__tel">+38 095 397 09 47</a>
+							<div class="contacts-top__column">
+								<div class="contacts-top__item">
+									<a href="" class="column-watch__button btn">Message</a>
+								</div>
+							</div>
 						</div>
 					</div>
-					<div class="contacts-top__column">
-						<div class="contacts-top__item">
-							<a href="" class="column-watch__button btn">Message</a>
+
+					<div class="menu__item">
+						<a href="#" class="menu__sublink menu__sublink_en"><img src="img/en-1.webp" alt="logo"></a>
+						<button data-spoller type="submit" class="menu__arrow _icon-aroow-1"></button>
+						<ul class="menu__sublist menu__sublist_ua">
+							<div class="menu__subitem">
+								<a href="index.html" class="menu__sublink menu__sublink_ua"><img src="img/ua-1.webp" alt="logo"></a>
+							</div>
+						</ul>
+						<ul class="menu__sublist menu__sublist_ru">
+							<div class="menu__subitem">
+								<a href="index-ru.html" class="menu__sublink menu__sublink_ru"><img src="img/ru.webp" alt="logo"></a>
+							</div>
+						</ul>
+					</div>
+					<div class="header__menu menu">
+						<div class="menu__icon icon-menu">
+							<span></span>
+							<span></span>
+							<span></span>
 						</div>
 					</div>
+
 				</div>
-			</div>
+				<nav class="menu__body">
+					<ul class="menu__list">
+						<li><a href="" class="menu__link">TBILISI</a></li>
+						<li><a href="" class="menu__link">BATUMI</a></li>
+						<li><a href="" class="menu__link">MTSKHETA</a></li>
+						<li><a href="" class="menu__link">RUSTAVI</a></li>
+						<li><a href="" class="menu__link">BORJOMI</a></li>
+						<li><a href="" class="menu__link">KUTAISI</a></li>
+						<li><a href="" class="menu__link">TELAVI</a></li>
+						<li><a href="" class="menu__link">SURAMI</a></li>
+					</ul>
+				</nav>
 
-			<div class="menu__item">
-				<a href="#" class="menu__sublink menu__sublink_en"><img src="img/en-1.webp" alt="logo"></a>
-				<button data-spoller type="submit" class="menu__arrow _icon-aroow-1"></button>
-				<ul class="menu__sublist menu__sublist_ua">
-					<div class="menu__subitem">
-						<a href="index.html" class="menu__sublink menu__sublink_ua"><img src="img/ua-1.webp" alt="logo"></a>
-					</div>
-				</ul>
-				<ul class="menu__sublist menu__sublist_ru">
-					<div class="menu__subitem">
-						<a href="index-ru.html" class="menu__sublink menu__sublink_ru"><img src="img/ru.webp" alt="logo"></a>
-					</div>
-				</ul>
 			</div>
-			<div class="header__menu menu">
-				<div class="menu__icon icon-menu">
-					<span></span>
-					<span></span>
-					<span></span>
-				</div>
-			</div>
-
-		</div>
-		<nav class="menu__body">
-			<ul class="menu__list">
-				<li><a href="" class="menu__link">TBILISI</a></li>
-				<li><a href="" class="menu__link">BATUMI</a></li>
-				<li><a href="" class="menu__link">MTSKHETA</a></li>
-				<li><a href="" class="menu__link">RUSTAVI</a></li>
-				<li><a href="" class="menu__link">BORJOMI</a></li>
-				<li><a href="" class="menu__link">KUTAISI</a></li>
-				<li><a href="" class="menu__link">TELAVI</a></li>
-				<li><a href="" class="menu__link">SURAMI</a></li>
-			</ul>
-		</nav>
-
-	</div>
-</header>
+		</header>
 		<main class="page">
 			<section class="we__block">
 				<div class="we__swiper _swiper _gallery">
@@ -1733,107 +1734,108 @@
 	</div>
 </footer>
 -->
-<footer class="footer">
-	<div class="footer__content _container">
-		<div class="footer__top">
-			<div class="footer__columns">
-				<div class="footer__column">
-					<div class="footer__row">
-						<div class="footer__col col">
-							<div class="col__logo">
-								<a href="#" class="logo__image">
-									<img src="img/footer/logo.png" alt="тбілісі" />
-								</a>
-							</div>
-							<div class="col__text">Тур-Центр Тбілісі<br>от <span>равнины</span> до
-								<span>гор</span>
+		<footer class="footer">
+			<div class="footer__content _container">
+				<div class="footer__top">
+					<div class="footer__columns">
+						<div class="footer__column">
+							<div class="footer__row">
+								<div class="footer__col col">
+									<div class="col__logo">
+										<a href="#" class="logo__image">
+											<img src="img/footer/logo.png" alt="тбілісі" />
+										</a>
+									</div>
+									<div class="col__text">Тур-Центр Тбілісі<br>от <span>равнины</span> до
+										<span>гор</span>
+									</div>
+								</div>
+								<div class="footer__col our">
+									<div class="our__item">
+										<div class="our__title">Наш сервис</div>
+										<ul class="our__list">
+											<li><a href="shkafy.html" class="our__link">Туры</a></li>
+											<li><a href="home-mobile.html" class="our__link">Гастрономические туры</a></li>
+											<li><a href="kukhni.html" class="our__link">горнолыжный отдых</a></li>
+											<li><a href="mezhkomnatnye-peregorodki.html" class="our__link">Море в Грузии</a>
+											</li>
+											<li><a href="lestnitsy-iz-naturalnogo-dereva-ua.html" class="our__link">Рекламні тури</a>
+											</li>
+											<li><a href="stenovye-paneli.html" class="our__link">Дитячі турі</a></li>
+											<li><a href="stenovye-paneli-mobile.html" class="our__link">Экскурсионные туры</a></li>
+											<li><a href="shkafy-kupe-garderoby-mobil.html" class="our__link">Новогодние туры</a></li>
+											<li><a href="reechnyj-dekor.html" class="our__link">Индивидуальный отдых</a></li>
+										</ul>
+									</div>
+								</div>
 							</div>
 						</div>
-						<div class="footer__col our">
-							<div class="our__item">
-								<div class="our__title">Наш сервис</div>
-								<ul class="our__list">
-									<li><a href="shkafy.html" class="our__link">Туры</a></li>
-									<li><a href="home-mobile.html" class="our__link">Гастрономические туры</a></li>
-									<li><a href="kukhni.html" class="our__link">горнолыжный отдых</a></li>
-									<li><a href="mezhkomnatnye-peregorodki.html" class="our__link">Море в Грузии</a>
-									</li>
-									<li><a href="lestnitsy-iz-naturalnogo-dereva-ua.html" class="our__link">Рекламні тури</a>
-									</li>
-									<li><a href="stenovye-paneli.html" class="our__link">Дитячі турі</a></li>
-									<li><a href="stenovye-paneli-mobile.html" class="our__link">Экскурсионные туры</a></li>
-									<li><a href="shkafy-kupe-garderoby-mobil.html" class="our__link">Новогодние туры</a></li>
-									<li><a href="reechnyj-dekor.html" class="our__link">Индивидуальный отдых</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="footer__column">
-					<div class="footer__row">
-						<div class="footer__col">
-							<a href="https://www.instagram.com/woodmebelua/" rel="nofollow" target="_blank"
-								class="instagram__title">Инстаграм</a>
-							<div class="footer__col instagram _gallery">
-								<div class="instagram__line">
-									<a href="img/footer/01.jpg" class="instagram__image _ibg">
-										<img src="img/footer/01.jpg" alt="тбілісі" />
-									</a>
-									<a href="img/footer/02.jpg" class="instagram__image _ibg">
-										<img src="img/footer/02.jpg" alt="тбілісі" />
-									</a>
-									<a href="img/footer/03.jpg" class="instagram__image _ibg">
-										<img src="img/footer/03.jpg" alt="тбілісі" />
-									</a>
-								</div>
-								<div class="instagram__line">
-									<a href="img/footer/03.jpg" class="instagram__image _ibg">
-										<img src="img/footer/03.jpg" alt="тбілісі" />
-									</a>
-									<a href="img/footer/02.jpg" class="instagram__image _ibg">
-										<img src="img/footer/02.jpg" alt="тбілісі" />
-									</a>
-									<a href="img/footer/01.jpg" class="instagram__image _ibg">
-										<img src="img/footer/01.jpg" alt="тбілісі" />
-									</a>
-								</div>
+						<div class="footer__column">
+							<div class="footer__row">
+								<div class="footer__col">
+									<a href="https://www.instagram.com/woodmebelua/" rel="nofollow" target="_blank"
+										class="instagram__title">Инстаграм</a>
+									<div class="footer__col instagram _gallery">
+										<div class="instagram__line">
+											<a href="img/footer/01.jpg" class="instagram__image _ibg">
+												<img src="img/footer/01.jpg" alt="тбілісі" />
+											</a>
+											<a href="img/footer/02.jpg" class="instagram__image _ibg">
+												<img src="img/footer/02.jpg" alt="тбілісі" />
+											</a>
+											<a href="img/footer/03.jpg" class="instagram__image _ibg">
+												<img src="img/footer/03.jpg" alt="тбілісі" />
+											</a>
+										</div>
+										<div class="instagram__line">
+											<a href="img/footer/03.jpg" class="instagram__image _ibg">
+												<img src="img/footer/03.jpg" alt="тбілісі" />
+											</a>
+											<a href="img/footer/02.jpg" class="instagram__image _ibg">
+												<img src="img/footer/02.jpg" alt="тбілісі" />
+											</a>
+											<a href="img/footer/01.jpg" class="instagram__image _ibg">
+												<img src="img/footer/01.jpg" alt="тбілісі" />
+											</a>
+										</div>
 
-							</div>
-						</div>
-						<div class="footer__col contact">
-							<div class="contact__title">Контакты</div>
-							<ul class="contact__list">
-								<li> <a href="https://goo.gl/maps/7qEkvRndwHUSz8pY7" rel="nofollow" target="_blank"
-										class="contact__link contact__link_text contact__link_footer _icon-geo"><span>Грузія</span></a>
-								</li>
-								<li> <a href="tel:+380953970947"
-										class="contact__link contact__link_tel _icon-phone contact__link_footer _icon-phone"><span>+380
-											95
-											397 09 47</span></a>
-								</li>
-								<li> <a href="tel:+380675057182"
-										class="contact__link contact__link_tel _icon-phone contact__link_footer"><span>+380 67 505 71
-											82</span></a>
-								</li>
-								<li> <a href="mailto:putty-knife@ukr.net"
-										class="contact__link contact__link_mail contact__link_footer _icon-email"><span>putty-knife@ukr.net</span></a>
-								</li>
-							</ul>
-							<div class="footer__social">
-								<div class="social-header__block"> <a rel="nofollow" target="_blank"
-										href="whatsapp://send?phone=380953970947" class="social-header__icon WhatsApp _icon-whatsapp"></a>
-									<a rel="nofollow" target="_blank" href="viber://add?number=380953970947"
-										class="social-header__icon viber _icon-viber"></a>
-									<a href="https://t.me/gri_shchuk" rel="nofollow" target="_blank"
-										class="social-header__icon telegram _icon-telegram"></a>
+									</div>
 								</div>
-								<div class="footer-social__facebook facebook-social">
-									<h3 class="facebook-social__title">
-										Любимая Грузия<p>Mы в Facebook</p>
-									</h3>
-									<a rel="nofollow" target="_blank" href="https://www.facebook.com/woodmebelcomua/"
-										class="facebook-social__icon _icon-facebook">
-										<!--<picture>
+								<div class="footer__col contact">
+									<div class="contact__title">Контакты</div>
+									<ul class="contact__list">
+										<li> <a href="https://goo.gl/maps/7qEkvRndwHUSz8pY7" rel="nofollow" target="_blank"
+												class="contact__link contact__link_text contact__link_footer _icon-geo"><span>Грузія</span></a>
+										</li>
+										<li> <a href="tel:+380953970947"
+												class="contact__link contact__link_tel _icon-phone contact__link_footer _icon-phone"><span>+380
+													95
+													397 09 47</span></a>
+										</li>
+										<li> <a href="tel:+380675057182"
+												class="contact__link contact__link_tel _icon-phone contact__link_footer"><span>+380 67 505 71
+													82</span></a>
+										</li>
+										<li> <a href="mailto:putty-knife@ukr.net"
+												class="contact__link contact__link_mail contact__link_footer _icon-email"><span>putty-knife@ukr.net</span></a>
+										</li>
+									</ul>
+									<div class="footer__social">
+										<div class="social-header__block"> <a rel="nofollow" target="_blank"
+												href="whatsapp://send?phone=380953970947"
+												class="social-header__icon WhatsApp _icon-whatsapp"></a>
+											<a rel="nofollow" target="_blank" href="viber://add?number=380953970947"
+												class="social-header__icon viber _icon-viber"></a>
+											<a href="https://t.me/gri_shchuk" rel="nofollow" target="_blank"
+												class="social-header__icon telegram _icon-telegram"></a>
+										</div>
+										<div class="footer-social__facebook facebook-social">
+											<h3 class="facebook-social__title">
+												Любимая Грузия<p>Mы в Facebook</p>
+											</h3>
+											<a rel="nofollow" target="_blank" href="https://www.facebook.com/woodmebelcomua/"
+												class="facebook-social__icon _icon-facebook">
+												<!--<picture>
 											<source srcset="img/icons/facebook.webp" type="image/webp"><img src="img/icons/facebook.png"
 												alt="машинная шпаклёвка" />
 												<div class="articles__call">
@@ -1841,82 +1843,82 @@
 				</div>
 										</picture>-->
 
-									</a>
+											</a>
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>
 					</div>
+					<div class="footer__buttom"> <a href="#quiz-0"
+							class="body-chose__button body-chose__button_a btn btn_b _popup-link">Замовити
+							дзвінок</a>
+					</div>
 				</div>
 			</div>
-			<div class="footer__buttom"> <a href="#quiz-0"
-					class="body-chose__button body-chose__button_a btn btn_b _popup-link">Замовити
-					дзвінок</a>
-			</div>
-		</div>
-	</div>
-	<div class="footer__bottom bottom">
-		<div class="bottom__text">
-			<a rel="nofollow" target="_blank" href="https://freelancehunt.com/freelancer/vngfrontend.html "
-				class="bottom__link">vngfrontend</a><span class="bottom__link-end">end</span>
-			<span>
-				<div class="bottom__imag _ibg">
-					<img src="img/unnamed.jpg" alt="картинка" />
+			<div class="footer__bottom bottom">
+				<div class="bottom__text">
+					<a rel="nofollow" target="_blank" href="https://freelancehunt.com/freelancer/vngfrontend.html "
+						class="bottom__link">vngfrontend</a><span class="bottom__link-end">end</span>
+					<span>
+						<div class="bottom__imag _ibg">
+							<img src="img/unnamed.jpg" alt="картинка" />
+						</div>
+					</span> 2021<a rel="nofollow" target="_blank" href="https://www.youtube.com/c/FreelancerLifeStyle/featured"
+						class="bottom__link">Patreon</a>
+					All Rights
+					Reserved
 				</div>
-			</span> 2021<a rel="nofollow" target="_blank" href="https://www.youtube.com/c/FreelancerLifeStyle/featured"
-				class="bottom__link">Patreon</a>
-			All Rights
-			Reserved
-		</div>
-	</div>
-</footer>
+			</div>
+		</footer>
 	</div>
 	<div class="popup popup_quiz-0">
-	<div class="popup__content">
-		<div class="popup__close"></div>
-		<div class="popup__body">
-
-			<div class="quiz-0__heder">
-				<div class="quiz-0__logo">
-					<a href="" class="header__logo"><img src="img/icons/logo.webp" alt=""></a>
-					<a href="" class="header__heading">ГРУЗіЯ</a>
-				</div>
-			</div>
-			<form action="send.php" method="POST" class="form">
-				<div class="form__row">
-					<div class="form__line"> <label for="input" class="form__label">Ваше имя*</label> <input id="input"
-							autocomplete="off" name="name" data-value="" data-error="Ошибка" type="text"
-							class="form__input input _req"> </div>
-					<div class="form__line"> <label for="phon" class="form__label">Ваш телефон*</label> <input id="phon"
-							name="phone" data-value="" data-error="Ошибка" type="text" class="form__input input _phone _req"> </div>
-				</div>
-				<div class="form__line"> <label for="text" class="form__label">Ваше сообщение*</label> <textarea id="text"
-						name="message" rows="10" data-value="" class="form__textarea input _req"></textarea>
-				</div>
-				<div class="form__line"> <button type="submit" class="form__button btn">Подать заявку</button> </div>
-			</form>
-		</div>
-	</div>
-</div>
-<div class="popup popup_massagename-message">
-	<div class="popup__content">
-		<div class="popup__body">
+		<div class="popup__content">
 			<div class="popup__close"></div>
-		</div>
-	</div>
-</div>
-<div class="popup popup_video">
-	<div class="popup__content">
-		<div class="popup__body">
-			<div class="popup__close popup__close_video"></div>
-			<div class="popup__video _video"></div>
-		</div>
-	</div>
-</div>
-	<!-- Swiper -->
-<!-- <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script> -->
+			<div class="popup__body">
 
-<script src="js/vendors.min.js"></script>
-<script src="js/app.min.js"></script>
+				<div class="quiz-0__heder">
+					<div class="quiz-0__logo">
+						<a href="" class="header__logo"><img src="img/icons/logo.webp" alt=""></a>
+						<a href="" class="header__heading">ГРУЗіЯ</a>
+					</div>
+				</div>
+				<form action="send.php" method="POST" class="form">
+					<div class="form__row">
+						<div class="form__line"> <label for="input" class="form__label">Ваше имя*</label> <input id="input"
+								autocomplete="off" name="name" data-value="" data-error="Ошибка" type="text"
+								class="form__input input _req"> </div>
+						<div class="form__line"> <label for="phon" class="form__label">Ваш телефон*</label> <input id="phon"
+								name="phone" data-value="" data-error="Ошибка" type="text" class="form__input input _phone _req"> </div>
+					</div>
+					<div class="form__line"> <label for="text" class="form__label">Ваше сообщение*</label> <textarea id="text"
+							name="message" rows="10" data-value="" class="form__textarea input _req"></textarea>
+					</div>
+					<div class="form__line"> <button type="submit" class="form__button btn">Подать заявку</button> </div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<div class="popup popup_massagename-message">
+		<div class="popup__content">
+			<div class="popup__body">
+				<div class="popup__close"></div>
+			</div>
+		</div>
+	</div>
+	<div class="popup popup_video">
+		<div class="popup__content">
+			<div class="popup__body">
+				<div class="popup__close popup__close_video"></div>
+				<div class="popup__video _video"></div>
+			</div>
+		</div>
+	</div>
+	<!-- Swiper -->
+	<!-- <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script> -->
+
+	<script src="js/vendors.min.js"></script>
+	<script src="js/app.min.js"></script>
 </body>
 
 </html>
